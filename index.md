@@ -19,14 +19,12 @@
   </p>
 </div>
 <br style="line-height:10%;">
-I'm a PhD student in statistical machine learning at [Oxford](http://www.ox.ac.uk/), supervised by [Yee Whye Teh](http://www.stats.ox.ac.uk/~teh/) and [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/) and funded by [Google DeepMind](https://deepmind.com/).
+I'm a 2nd year PhD student in statistical machine learning at [Oxford](http://www.ox.ac.uk/), supervised by [Yee Whye Teh](http://www.stats.ox.ac.uk/~teh/) and [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/) and funded by [Google DeepMind](https://deepmind.com/).
 
-My recent research interests include learning continuous representations of data and particularly building [generative models as distributions of continuous functions](https://arxiv.org/abs/2102.04776). I'm also interested in the intersection of physics and machine learning and especially in combining learning from data with physical principles, such as the equivalence between [symmetries and conservation laws](https://arxiv.org/abs/2012.10885). I've also worked on [neural rendering](https://arxiv.org/abs/2006.07630) during an internship at [Apple](https://apple.com/) and am very interested in how we can use graphics renderers to make computer vision algorithms more robust and interpretable.
+My research interests include causal inference and its applications in decision making. More specifically, I am interested in leveraging available observational data for robust decision making in the real world. I am also interested in distribution-free uncertainty quantification methods like conformal prediction and their applications in machine learning. Previously, I have worked on using causal inference for validating scientific simulator models.
 
-Previously, I've worked on invertible and [continuous depth neural networks](https://arxiv.org/abs/1904.01681), [disentanglement](https://arxiv.org/abs/1804.00104), [inpainting](https://arxiv.org/abs/1802.03065) and its [applications](https://arxiv.org/abs/1810.03728) to various physical problems.
-
-Before my PhD, I worked for 2 years as a machine learning scientist at [STIC](http://www.slb.com/about/rd/technology/stic.aspx) in the Bay Area. I studied [computational maths](https://icme.stanford.edu/) at [Stanford University](https://www.stanford.edu/) and theoretical physics at [Imperial College](https://www.imperial.ac.uk/).
+Before my PhD, I worked for 2 years as an associate developer at [Morgan Stanley](https://www.morganstanley.com/) in London. I got my Bachelor’s and Master’s degrees in mathematics from [University of Cambridge](https://www.cam.ac.uk/). 
 
 ### Contact
 
-My email is _emilien.dupont (at) stats.ox.ac.uk_
+My email is _muhammad.taufiq (at) stats.ox.ac.uk_
