@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Hello
 feature_text: |
   ## Hello world
@@ -6,4 +6,37 @@ feature_text: |
 <div style="margin: auto; width: 40%">
   <img src="{{ site.url }}/img/faaizT.jpeg" style="display:block; margin-left:auto; margin-right:auto; border-radius:50%; width:75%;">
 
-There isn't much going on here yet, but watch this space
+There isn't much going on here yet, but watch this space -->
+
+<div style="margin: auto; width: 40%">
+  <img src="{{ site.url }}/img/faaizT.jpeg" style="display:block; margin-left:auto; margin-right:auto; border-radius:50%; width:75%;">
+
+  <p style="text-align:center; margin-top:5%; margin-bottom:0%; font-size: 140%;">
+    Faaiz Taufiq
+  </p>
+  <p style="text-align:center; margin:0%;">
+    <a href="https://www.twitter.com/FaaizTaufiq">
+      {% include icon.html id="twitter" title="twitter" %}
+    </a>
+    &nbsp;
+    <a href="https://github.com/faaizT">
+      {% include icon.html id="github" title="github" %}
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/muhammadftaufiq/">
+      {% include icon.html id="linkedin" title="linkedin" %}
+    </a>
+  </p>
+</div>
+<br style="line-height:10%;">
+I'm a PhD student in statistical machine learning at [Oxford](http://www.ox.ac.uk/), supervised by [Yee Whye Teh](http://www.stats.ox.ac.uk/~teh/) and [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/) and funded by [Google DeepMind](https://deepmind.com/).
+
+My recent research interests include learning continuous representations of data and particularly building [generative models as distributions of continuous functions](https://arxiv.org/abs/2102.04776). I'm also interested in the intersection of physics and machine learning and especially in combining learning from data with physical principles, such as the equivalence between [symmetries and conservation laws](https://arxiv.org/abs/2012.10885). I've also worked on [neural rendering](https://arxiv.org/abs/2006.07630) during an internship at [Apple](https://apple.com/) and am very interested in how we can use graphics renderers to make computer vision algorithms more robust and interpretable.
+
+Previously, I've worked on invertible and [continuous depth neural networks](https://arxiv.org/abs/1904.01681), [disentanglement](https://arxiv.org/abs/1804.00104), [inpainting](https://arxiv.org/abs/1802.03065) and its [applications](https://arxiv.org/abs/1810.03728) to various physical problems.
+
+Before my PhD, I worked for 2 years as a machine learning scientist at [STIC](http://www.slb.com/about/rd/technology/stic.aspx) in the Bay Area. I studied [computational maths](https://icme.stanford.edu/) at [Stanford University](https://www.stanford.edu/) and theoretical physics at [Imperial College](https://www.imperial.ac.uk/).
+
+### Contact
+
+My email is _emilien.dupont (at) stats.ox.ac.uk_
