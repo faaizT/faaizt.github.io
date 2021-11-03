@@ -22,8 +22,8 @@ plugins:
 
 # Site settings
 url: 'https://faaizt.github.io'
-title: "Faaiz Taufiq: Hello!"
-description: "Faaiz Taufiq's personal website"
+title: "Faaiz Taufiq"
+# description: "Faaiz Taufiq's personal website"
 permalink: pretty
 # logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
