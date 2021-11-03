@@ -1,6 +1,6 @@
 ---
 title: Hello
-feature_image: "https://twitter.com/FaaizTaufiq/photo"
+feature_image: "img/faaizt.jpeg"
 feature_text: |
   ## Hello world
 ---
