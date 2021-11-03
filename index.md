@@ -1,6 +1,6 @@
 ---
-title: Welcome to my website
-feature_image: "https://picsum.photos/1300/400?image=989"
+title: Hello
+feature_image: "https://twitter.com/FaaizTaufiq/photo"
 feature_text: |
   ## Hello world
 ---
