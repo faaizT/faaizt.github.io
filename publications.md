@@ -15,7 +15,7 @@ An up to date list of publications can be found on my [Google Scholar](https://s
   </div>
 
   <div style="flex:2.5;">
-    <b style="font-size: 100%;">Conformal Off-Policy Prediction in Contextual Bandits</b><br>
+    <b style="font-size: 90%;">Conformal Off-Policy Prediction in Contextual Bandits</b><br>
 
     <i style="font-size: 80%;"><b>M.F. Taufiq*</b>, J.F. Ton*, R. Cornish, Y. W. Teh, A. Doucet</i><br>
 
