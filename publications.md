@@ -22,6 +22,7 @@ An up to date list of publications can be found on my [Google Scholar](https://s
     <a href="https://arxiv.org/abs/2206.04405">
       arxiv.org/abs/2206.04405
     </a><br>
+    <i style="font-size: 60%;"><b>ICML '22 Workshop</b> on Distribution-Free Uncertainty Quantification (<b>Spotlight</b>). </i><br>
   </div>
 </div>
 
