@@ -16,12 +16,16 @@
     <a href="https://www.linkedin.com/in/muhammadftaufiq/">
       {% include icon.html id="linkedin" title="linkedin" %}
     </a>
+    &nbsp;
+    <a href="https://scholar.google.com/citations?hl=en&user=oDL6ahoAAAAJ">
+      {% include icon.html id="google-scholar" title="scholar" %}
+    </a>
   </p>
 </div>
 <br style="line-height:10%;">
 I'm a 2nd year PhD student in statistical machine learning at [Oxford](http://www.ox.ac.uk/), supervised by [Yee Whye Teh](http://www.stats.ox.ac.uk/~teh/) and [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/) and funded by [Google DeepMind](https://deepmind.com/).
 
-My research interests include causal inference and its applications in decision making. More specifically, I am interested in leveraging available observational data for robust decision making in the real world. I am also interested in distribution-free uncertainty quantification methods like conformal prediction and their applications in machine learning. Previously, I have worked on using causal inference for validating scientific simulator models.
+My research interests include causal inference and its applications in decision making. More specifically, I am interested in leveraging available observational data for robust decision making in the real world. I am also interested in distribution-free uncertainty quantification methods like conformal prediction and their applications in machine learning. Previously, I have worked on applications of [Conformal Prediction in Contextual Bandits](https://arxiv.org/abs/2206.04405), and using causal inference for assessing scientific simulator models.
 
 Before my PhD, I worked for 2 years as an associate developer at [Morgan Stanley](https://www.morganstanley.com/) in London. I got my Bachelor’s and Master’s degrees in mathematics from [University of Cambridge](https://www.cam.ac.uk/). 
 

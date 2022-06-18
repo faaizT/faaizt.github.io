@@ -31,12 +31,12 @@ permalink: pretty
 paginate: 5
 paginate_path: blog/page:num
 
-# Header nav
-# navigation_header:
-# - title: Home
-#   url: /
-# - title: About
-#   url: /about/
+Header nav
+navigation_header:
+- title: Home
+  url: /
+- title: Publications
+  url: /publications/
 # - title: Blog
 #   url: /blog/
 
