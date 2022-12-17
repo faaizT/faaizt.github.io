@@ -1,5 +1,5 @@
 <div style="margin: auto; width: 65%">
-  <img src="{{ site.url }}/img/faait.jpeg"
+  <img src="{{ site.url }}/img/faait.jpg"
   style="display:block; margin-left:auto; margin-right:auto; border-radius:50%; width:50%;">
 
   <p style="text-align:center; margin-top:5%; margin-bottom:0%; font-size: 140%;">
