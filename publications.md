@@ -12,7 +12,7 @@ An up to date list of publications can be found on my [Google Scholar](https://s
 
   <div style="flex:1; padding-right:1%">
     <!-- <img src="{{ site.url }}/img/paper-icons/COPP7.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;"> -->
-    <img src="{{ site.url }}/img/paper-icons/COPP7.png" style="display:block; margin-left:auto; margin-right:auto; border-radius:50%; width:100%;">
+    <img src="{{ site.url }}/img/paper-icons/COPP7.png" style="display:block; margin-left:auto; margin-right:auto; border-radius:50%; width:150%;">
   </div>
 
   <div style="flex:2.5;">
