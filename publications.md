@@ -6,7 +6,7 @@ layout: page
 An up to date list of publications can be found on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=oDL6ahoAAAAJ) profile.
 
 
-# 2022
+## 2022
 
 <div style="display:flex;">
 
