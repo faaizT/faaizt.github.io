@@ -1,4 +1,4 @@
-<div style="margin: auto; width: 65%">
+<div style="margin: auto; width: 75%">
   <img src="{{ site.url }}/img/faaizt.jpeg" style="display:block; margin-left:auto; margin-right:auto; border-radius:50%; width:75%;">
 
   <p style="text-align:center; margin-top:5%; margin-bottom:0%; font-size: 140%;">
@@ -25,9 +25,9 @@
 <br style="line-height:10%;">
 I'm a 2nd year PhD student in statistical machine learning at [Oxford](http://www.ox.ac.uk/), supervised by [Yee Whye Teh](http://www.stats.ox.ac.uk/~teh/) and [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/) and funded by [Google DeepMind](https://deepmind.com/).
 
-My research interests include causal inference and its applications in decision making, uncertainty quantification and explainable ML. More specifically, I am interested in leveraging available observational data for robust decision making in the real world. Previously, I have worked on applications of [Conformal Prediction in Contextual Bandits](https://arxiv.org/abs/2206.04405), and using causal inference for assessing scientific simulator models.
+My research interests include causal inference and its applications in decision making, uncertainty quantification and explainable ML. More specifically, I am interested in leveraging available observational data for robust decision making in the real world. Previously, I have worked on applications of [Conformal Prediction in Contextual Bandits](https://arxiv.org/abs/2206.04405), and using causal inference for assessing scientific simulator models. Recently, I interned at [Amazon](https://aws.amazon.com/) Tubingen, Germany, where I worked on developing robust explanability methods.
 
-Recently, I interned at [Amazon](https://aws.amazon.com/) Tubingen, Germany, where I worked on developing robust explanability methods. Before my PhD, I worked for 2 years as an associate developer at [Morgan Stanley](https://www.morganstanley.com/) in London. I got my Bachelor’s and Master’s degrees in mathematics from [University of Cambridge](https://www.cam.ac.uk/).
+Before starting my PhD, I worked for 2 years as an associate developer at [Morgan Stanley](https://www.morganstanley.com/) in London. I got my Bachelor’s and Master’s degrees in mathematics from [University of Cambridge](https://www.cam.ac.uk/).
 
 ### Contact
 
