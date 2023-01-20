@@ -27,7 +27,7 @@ An up to date list of publications can be found on my [Google Scholar](https://s
     style="width:600px; border-radius:30%">
   </div>
   <div style="flex:2.5;">
-    <b style="font-size: 80%;"><a href="https://arxiv.org/abs/2301.04041">Causal Falsification of Digital Twins</a></b><br>
+    <b style="font-size: 80%;"><a href="https://arxiv.org/abs/2301.07210">Causal Falsification of Digital Twins</a></b><br>
     <i style="font-size: 80%;">R. Cornish*, <b>M.F. Taufiq*</b>, A. Doucet, C. Holmes</i><br>
     <i style="font-size: 60%;">Preprint</i><br>
   </div>
