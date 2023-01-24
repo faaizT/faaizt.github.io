@@ -23,6 +23,8 @@ plugins:
 # Site settings
 url: 'https://faaizt.github.io'
 title: "Muhammad Faaiz Taufiq"
+fonts:
+  primary: sans-serif
 # description: "Faaiz Taufiq's personal website"
 permalink: pretty
 # logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
@@ -37,9 +39,6 @@ navigation_header:
   url: /
 - title: Publications
   url: /publications/
-  fonts:
-    primary: sans-serif
-    secondary: Arial
 # - title: Blog
 #   url: /blog/
 

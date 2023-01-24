@@ -3,8 +3,6 @@ title: Publications
 layout: page
 ---
 
-<span style="font-family:sans-serif;">
-
 An up to date list of publications can be found on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=oDL6ahoAAAAJ) profile.
 
 ##### 2023
@@ -53,5 +51,4 @@ An up to date list of publications can be found on my [Google Scholar](https://s
     <i style="font-size: 60%;"><b>ICML 2022 Workshop</b> on Distribution-Free Uncertainty Quantification (<b>Spotlight</b>). </i><br>
   </div>
 </div>
-</span>
 &nbsp;
