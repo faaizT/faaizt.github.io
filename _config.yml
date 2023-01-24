@@ -37,6 +37,9 @@ navigation_header:
   url: /
 - title: Publications
   url: /publications/
+  fonts:
+    primary: sans-serif
+    secondary: Arial
 # - title: Blog
 #   url: /blog/
 
