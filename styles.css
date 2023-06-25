@@ -47,7 +47,7 @@
     display: inline-block;
   }
   
-  .button {
+.button {
     display: inline-block;
     padding: 8px 15px;
     font-size: 60%;
@@ -62,10 +62,10 @@
     box-shadow: 0 5px #999;
 }
 
-    .button:hover {background-color: #3e8e41}
+.button:hover {background-color: #3e8e41}
 
-    .button:active {
-        background-color: #3e8e41;
-        box-shadow: 0 5px #666;
-        transform: translateY(2px);
-    }
+.button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(2px);
+}
