@@ -18,8 +18,8 @@ An up to date list of publications can be found on my [Google Scholar](https://s
     <b style="font-size: 80%;"><a href="https://arxiv.org/abs/2301.04041">Manifold Restricted Interventional Shapley Values</a></b><br>
     <i style="font-size: 80%;"><b>M.F. Taufiq</b>, P. Blöbaum, L. Minorics</i><br>
     <i style="font-size: 60%;"><b>AISTATS 2023</b></i><br>
-    <a style="font-size: 60%;" href="{{ site.url }}/slides/AISTATS2023ManifoldShap.pdf" class="button">Slides</a>
-    <a style="font-size: 60%;" href="https://www.youtube.com/watch?v=CQEOJLv1Kt4" class="button">Video</a>
+    <a style="font-size: 60%;" href="{{ site.url }}/slides/AISTATS2023ManifoldShap.pdf" class="button slides-button">Slides</a>
+    <a style="font-size: 60%;" href="https://www.youtube.com/watch?v=CQEOJLv1Kt4" class="button slides-button">Video</a>
   </div>
 </div>
 <br />
@@ -34,7 +34,7 @@ An up to date list of publications can be found on my [Google Scholar](https://s
     <b style="font-size: 80%;"><a href="https://arxiv.org/abs/2301.07210">Causal Falsification of Digital Twins</a></b><br>
     <i style="font-size: 80%;">R. Cornish*, <b>M.F. Taufiq*</b>, A. Doucet, C. Holmes</i><br>
     <i style="font-size: 60%;">Preprint</i><br>
-    <a style="font-size: 60%;" href="{{ site.url }}/slides/dtslides.pdf" class="button">Slides</a>
+    <a style="font-size: 60%;" href="{{ site.url }}/slides/dtslides.pdf" class="button slides-button">Slides</a>
   </div>
 </div>
 
@@ -55,7 +55,7 @@ An up to date list of publications can be found on my [Google Scholar](https://s
     <i style="font-size: 60%;"><b>NeurIPS 2022</b></i><br>
     <i style="font-size: 60%;"><b>ICML 2022 Workshop</b> on Distribution-Free Uncertainty Quantification (<b>Spotlight</b>). </i><br>
     <a style="font-size: 60%;" href="{{ site.url }}/slides/copp_slides.pdf" class="button">Slides</a>
-    <a style="font-size: 60%;" href="https://www.youtube.com/watch?v=K5RAjP1Ze30" class="button">Video</a>
+    <a style="font-size: 60%;" href="https://www.youtube.com/watch?v=K5RAjP1Ze30" class="button slides-button">Video</a>
   </div>
 </div>
 &nbsp;
