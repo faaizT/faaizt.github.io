@@ -1,0 +1,49 @@
+.page-content {
+    width: 80%;
+    margin: auto;
+  }
+  
+  .page-title {
+    font-size: 2em;
+    color: #333;
+  }
+  
+  .publication-year {
+    font-size: 1.5em;
+    color: #666;
+    margin-top: 2em;
+  }
+  
+  .publication-item {
+    display: flex;
+    margin-bottom: 1em;
+  }
+  
+  .publication-image img {
+    width: 200px;
+    border-radius: 10%;
+  }
+  
+  .publication-details {
+    flex-grow: 1;
+    padding-left: 1em;
+  }
+  
+  .publication-title {
+    font-size: 1.2em;
+  }
+  
+  .publication-authors, .publication-conference {
+    color: #777;
+    margin: 0.5em 0;
+  }
+  
+  .button.slides-button {
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    padding: 0.5em 1em;
+    border-radius: 5px;
+    display: inline-block;
+  }
+  
