@@ -29,7 +29,7 @@ I am currently a 3rd year PhD student in statistical machine learning at [Oxford
 
 My research focus includes uncertainty quantification, fairness in ML, explainability and causal inference. I am also interested in applying ideas from these disciplines for alignment within large-scale machine learning models.
 
-I am currently working as a research intern in the Responsibly AI team at [ByteDance](https://www.bytedance.com/) in London. Here, I am exploring fairness and interpretability within the context of large-scale machine learning models.
+I am currently working as a research intern in the Responsible AI team at [ByteDance](https://www.bytedance.com/) in London. Here, I am exploring fairness and interpretability within the context of large-scale machine learning models.
 Prior to this, I interned at [Amazon](https://aws.amazon.com/) in Tubingen, Germany in 2022, where I worked on [robust explanability methods](https://arxiv.org/abs/2301.04041).
 <!-- Some of my past research includes applications of [conformal prediction in contextual bandits](https://arxiv.org/abs/2206.04405), and using [causal inference to assess digital twin models](https://arxiv.org/abs/2301.07210). -->
 
