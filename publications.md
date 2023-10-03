@@ -10,6 +10,21 @@ An up to date list of publications can be found on my [Google Scholar](https://s
 <div style="display:flex;">
 
   <div style="flex:1; padding-right:5%">
+    <img src="{{ site.url }}/img/paper-icons/pillars.png"
+    style="width:600px; border-radius:10%">
+  </div>
+
+  <div style="flex:2.5;">
+    <b style="font-size: 80%;"><a href="http://trustllm.ai/">Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment</a></b><br>
+    <i style="font-size: 80%;"> Y. Liu*, Y. Yao*, J.F. Ton, X. Zhang, R. Guo, H. Cheng, Y. Klochkov, <b>M.F. Taufiq</b>, H. Li</i><br>
+    <i style="font-size: 60%;">Preprint</i><br>
+  </div>
+</div>
+<br />
+<br />
+<div style="display:flex;">
+
+  <div style="flex:1; padding-right:5%">
     <img src="{{ site.url }}/img/paper-icons/manshap.png"
     style="width:600px; border-radius:10%">
   </div>
