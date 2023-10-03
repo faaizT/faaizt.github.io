@@ -11,7 +11,7 @@ An up to date list of publications can be found on my [Google Scholar](https://s
 
   <div style="flex:1; padding-right:5%">
     <img src="{{ site.url }}/img/paper-icons/pillars.png"
-    style="width:600px; border-radius:10%">
+    style="width:800px; border-radius:10%">
   </div>
 
   <div style="flex:2.5;">
@@ -26,7 +26,7 @@ An up to date list of publications can be found on my [Google Scholar](https://s
 
   <div style="flex:1; padding-right:5%">
     <img src="{{ site.url }}/img/paper-icons/manshap.png"
-    style="width:600px; border-radius:10%">
+    style="width:800px; border-radius:10%">
   </div>
 
   <div style="flex:2.5;">
@@ -42,7 +42,7 @@ An up to date list of publications can be found on my [Google Scholar](https://s
 
   <div style="flex:1; padding-right:5%">
     <img src="{{ site.url }}/img/paper-icons/digital-twin.png"
-    style="width:600px; border-radius:30%">
+    style="width:800px; border-radius:30%">
   </div>
 
   <div style="flex:2.5;">
@@ -61,7 +61,7 @@ An up to date list of publications can be found on my [Google Scholar](https://s
 
   <div style="flex:1; padding-right:5%">
     <img src="{{ site.url }}/img/paper-icons/causal_ill.png"
-    style="width:600px; border-radius:10%">
+    style="width:800px; border-radius:10%">
   </div>
 
   <div style="flex:2.5;">
