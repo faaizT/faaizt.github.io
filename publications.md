@@ -76,7 +76,7 @@ An up to date list of publications can be found on my [Google Scholar](https://s
 <div style="display:flex;">
 
   <div style="flex:1.5; padding-right:5%">
-    <img src="{{ site.url }}/img/paper-icons/causal_ill.png"
+    <img src="{{ site.url }}/img/paper-icons/copp_icon.png"
     style="width:600px; border-radius:10%">
   </div>
 
