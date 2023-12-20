@@ -15,10 +15,10 @@ An up to date list of publications can be found on my [Google Scholar](https://s
   </div>
 
   <div style="flex:2.5;">
-    <b style="font-size: 80%;"><a href="https://arxiv.org/abs/2312.01457">Marginal Density Ratio for Off-Policy Evaluation in Contextual Bandits</a></b><br>
-    <i style="font-size: 80%;"> <b>M.F. Taufiq</b>, A. Doucet, R. Cornish, J.F. Ton</i><br>
-    <i style="font-size: 60%;"><b>NeurIPS 2023</b></i><br>
-    <a style="font-size: 60%;" href="https://docs.google.com/presentation/d/1q_jxKYNMtVxV7Qw5HFz-9sAEE_Jsd-iiH5uwjxSagY0/edit?usp=sharing">Slides</a>
+    <b style="font-size: 80%; font-family:sans-serif"><a href="https://arxiv.org/abs/2312.01457">Marginal Density Ratio for Off-Policy Evaluation in Contextual Bandits</a></b><br>
+    <i style="font-size: 80%; font-family:sans-serif"> <b>M.F. Taufiq</b>, A. Doucet, R. Cornish, J.F. Ton</i><br>
+    <i style="font-size: 60%; font-family:sans-serif"><b>NeurIPS 2023</b></i><br>
+    <a style="font-size: 60%; font-family:sans-serif" href="https://docs.google.com/presentation/d/1q_jxKYNMtVxV7Qw5HFz-9sAEE_Jsd-iiH5uwjxSagY0/edit?usp=sharing">Slides</a>
   </div>
 </div>
 <br />
@@ -32,9 +32,9 @@ An up to date list of publications can be found on my [Google Scholar](https://s
   </div>
 
   <div style="flex:2.5;">
-    <b style="font-size: 80%;"><a href="http://trustllm.ai/">Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment</a></b><br>
-    <i style="font-size: 80%;"> Y. Liu*, Y. Yao*, J.F. Ton, X. Zhang, R. Guo, H. Cheng, Y. Klochkov, <b>M.F. Taufiq</b>, H. Li</i><br>
-    <i style="font-size: 60%;"><b>NeurIPS 2023 Workshop</b> on Socially Responsible Language Modelling Research (SoLaR).</i><br>
+    <b style="font-size: 80%; font-family:sans-serif"><a href="http://trustllm.ai/">Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment</a></b><br>
+    <i style="font-size: 80%; font-family:sans-serif"> Y. Liu*, Y. Yao*, J.F. Ton, X. Zhang, R. Guo, H. Cheng, Y. Klochkov, <b>M.F. Taufiq</b>, H. Li</i><br>
+    <i style="font-size: 60%; font-family:sans-serif"><b>NeurIPS 2023 Workshop</b> on Socially Responsible Language Modelling Research (SoLaR).</i><br>
   </div>
 </div>
 <br />
@@ -47,11 +47,11 @@ An up to date list of publications can be found on my [Google Scholar](https://s
   </div>
 
   <div style="flex:2.5;">
-    <b style="font-size: 80%;"><a href="https://arxiv.org/abs/2301.04041">Manifold Restricted Interventional Shapley Values</a></b><br>
-    <i style="font-size: 80%;"><b>M.F. Taufiq</b>, P. Blöbaum, L. Minorics</i><br>
-    <i style="font-size: 60%;"><b>AISTATS 2023</b></i><br>
-    <a style="font-size: 60%;" href="{{ site.url }}/slides/AISTATS2023ManifoldShap.pdf">Slides</a>
-    <a style="font-size: 60%;" href="https://www.youtube.com/watch?v=CQEOJLv1Kt4">Video</a>
+    <b style="font-size: 80%; font-family:sans-serif"><a href="https://arxiv.org/abs/2301.04041">Manifold Restricted Interventional Shapley Values</a></b><br>
+    <i style="font-size: 80%; font-family:sans-serif"><b>M.F. Taufiq</b>, P. Blöbaum, L. Minorics</i><br>
+    <i style="font-size: 60%; font-family:sans-serif"><b>AISTATS 2023</b></i><br>
+    <a style="font-size: 60%; font-family:sans-serif" href="{{ site.url }}/slides/AISTATS2023ManifoldShap.pdf">Slides</a>
+    <a style="font-size: 60%; font-family:sans-serif" href="https://www.youtube.com/watch?v=CQEOJLv1Kt4">Video</a>
   </div>
 </div>
 <br />
@@ -63,10 +63,10 @@ An up to date list of publications can be found on my [Google Scholar](https://s
   </div>
 
   <div style="flex:2.5;">
-    <b style="font-size: 80%;"><a href="https://arxiv.org/abs/2301.07210">Causal Falsification of Digital Twins</a></b><br>
-    <i style="font-size: 80%;">R. Cornish*, <b>M.F. Taufiq*</b>, A. Doucet, C. Holmes</i><br>
-    <i style="font-size: 60%;">Preprint</i><br>
-    <a style="font-size: 60%;" href="{{ site.url }}/slides/dtslides.pdf">Slides</a>
+    <b style="font-size: 80%; font-family:sans-serif"><a href="https://arxiv.org/abs/2301.07210">Causal Falsification of Digital Twins</a></b><br>
+    <i style="font-size: 80%; font-family:sans-serif">R. Cornish*, <b>M.F. Taufiq*</b>, A. Doucet, C. Holmes</i><br>
+    <i style="font-size: 60%; font-family:sans-serif">Preprint</i><br>
+    <a style="font-size: 60%; font-family:sans-serif" href="{{ site.url }}/slides/dtslides.pdf">Slides</a>
   </div>
 </div>
 
@@ -82,12 +82,12 @@ An up to date list of publications can be found on my [Google Scholar](https://s
   </div>
 
   <div style="flex:2.5;">
-    <b style="font-size: 80%;"><a href="https://arxiv.org/abs/2206.04405">Conformal Off-Policy Prediction in Contextual Bandits</a></b><br>
-    <i style="font-size: 80%;"><b>M.F. Taufiq*</b>, J.F. Ton*, R. Cornish, Y. W. Teh, A. Doucet</i><br>
-    <i style="font-size: 60%;"><b>NeurIPS 2022</b></i><br>
-    <i style="font-size: 60%;"><b>ICML 2022 Workshop</b> on Distribution-Free Uncertainty Quantification (<b>Spotlight</b>). </i><br>
-    <a style="font-size: 60%;" href="{{ site.url }}/slides/copp_slides.pdf">Slides</a>
-    <a style="font-size: 60%;" href="https://www.youtube.com/watch?v=K5RAjP1Ze30">Video</a>
+    <b style="font-size: 80%; font-family:sans-serif"><a href="https://arxiv.org/abs/2206.04405">Conformal Off-Policy Prediction in Contextual Bandits</a></b><br>
+    <i style="font-size: 80%; font-family:sans-serif"><b>M.F. Taufiq*</b>, J.F. Ton*, R. Cornish, Y. W. Teh, A. Doucet</i><br>
+    <i style="font-size: 60%; font-family:sans-serif"><b>NeurIPS 2022</b></i><br>
+    <i style="font-size: 60%; font-family:sans-serif"><b>ICML 2022 Workshop</b> on Distribution-Free Uncertainty Quantification (<b>Spotlight</b>). </i><br>
+    <a style="font-size: 60%; font-family:sans-serif" href="{{ site.url }}/slides/copp_slides.pdf">Slides</a>
+    <a style="font-size: 60%; font-family:sans-serif" href="https://www.youtube.com/watch?v=K5RAjP1Ze30">Video</a>
   </div>
 </div>
 &nbsp;
