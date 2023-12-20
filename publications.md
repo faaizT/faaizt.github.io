@@ -10,6 +10,22 @@ An up to date list of publications can be found on my [Google Scholar](https://s
 <div style="display:flex;">
 
   <div style="flex:1.5; padding-right:5%">
+    <img src="{{ site.url }}/img/paper-icons/mr_icon.png"
+    style="width:600px; border-radius:10%">
+  </div>
+
+  <div style="flex:2.5;">
+    <b style="font-size: 80%;"><a href="https://arxiv.org/abs/2312.01457">Marginal Density Ratio for Off-Policy Evaluation in Contextual Bandits</a></b><br>
+    <i style="font-size: 80%;"> <b>M.F. Taufiq</b>, A. Doucet, R. Cornish, J.F. Ton</i><br>
+    <i style="font-size: 60%;"><b>NeurIPS 2023</b></i><br>
+  </div>
+</div>
+<br />
+<br />
+
+<div style="display:flex;">
+
+  <div style="flex:1.5; padding-right:5%">
     <img src="{{ site.url }}/img/paper-icons/pillars.png"
     style="width:600px; border-radius:10%">
   </div>
@@ -17,7 +33,7 @@ An up to date list of publications can be found on my [Google Scholar](https://s
   <div style="flex:2.5;">
     <b style="font-size: 80%;"><a href="http://trustllm.ai/">Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment</a></b><br>
     <i style="font-size: 80%;"> Y. Liu*, Y. Yao*, J.F. Ton, X. Zhang, R. Guo, H. Cheng, Y. Klochkov, <b>M.F. Taufiq</b>, H. Li</i><br>
-    <i style="font-size: 60%;">Preprint</i><br>
+    <i style="font-size: 60%;"><b>NeurIPS 2023 Workshop</b> on Socially Responsible Language Modelling Research (SoLaR).</i><br>
   </div>
 </div>
 <br />
