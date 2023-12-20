@@ -18,6 +18,7 @@ An up to date list of publications can be found on my [Google Scholar](https://s
     <b style="font-size: 80%;"><a href="https://arxiv.org/abs/2312.01457">Marginal Density Ratio for Off-Policy Evaluation in Contextual Bandits</a></b><br>
     <i style="font-size: 80%;"> <b>M.F. Taufiq</b>, A. Doucet, R. Cornish, J.F. Ton</i><br>
     <i style="font-size: 60%;"><b>NeurIPS 2023</b></i><br>
+    <a style="font-size: 60%;" href="https://docs.google.com/presentation/d/1q_jxKYNMtVxV7Qw5HFz-9sAEE_Jsd-iiH5uwjxSagY0/edit?usp=sharing">Slides</a>
   </div>
 </div>
 <br />
