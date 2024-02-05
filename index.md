@@ -27,10 +27,10 @@
 
 I am currently a 3rd year PhD student in statistical machine learning at [Oxford](http://www.ox.ac.uk/), under the supervision of [Rob Cornish](https://jrmcornish.github.io/), [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/) and [Yee Whye Teh](http://www.stats.ox.ac.uk/~teh/), and funded by [Google DeepMind](https://deepmind.com/).
 
-My research focus includes uncertainty quantification, fairness in ML, explainability and causal inference. I am also interested in applying ideas from these disciplines for alignment within large-scale machine learning models.
+My research focus includes uncertainty quantification, fairness in ML, explainability and causal inference. I am also interested in applying ideas from these disciplines for alignment within large language models.
 
-I am currently working as a research intern in the Responsible AI team at [ByteDance](https://www.bytedance.com/) in London. Here, I am exploring fairness and interpretability within the context of large-scale machine learning models.
-Prior to this, I interned at [Amazon](https://aws.amazon.com/) in Tubingen, Germany in 2022, where I worked on [robust explanability methods](https://arxiv.org/abs/2301.04041).
+I recently completed a research internship in the Responsible AI team at [ByteDance](https://www.bytedance.com/) in London. Here, I was exploring fairness and interpretability within the context of large language models.
+Prior to this, I also interned at [Amazon](https://aws.amazon.com/) in Tubingen, Germany in 2022, where I worked on [robust explanability methods](https://arxiv.org/abs/2301.04041).
 <!-- Some of my past research includes applications of [conformal prediction in contextual bandits](https://arxiv.org/abs/2206.04405), and using [causal inference to assess digital twin models](https://arxiv.org/abs/2301.07210). -->
 
 Before beginning my PhD, I spent 2 years as an associate developer at [Morgan Stanley](https://www.morganstanley.com/) in London. I got my Bachelor’s and Master’s degrees in Mathematics from the [University of Cambridge](https://www.cam.ac.uk/).
