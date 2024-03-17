@@ -27,7 +27,7 @@
 
 I am currently a 3rd year PhD student in statistical machine learning at [Oxford](http://www.ox.ac.uk/), under the supervision of [Rob Cornish](https://jrmcornish.github.io/), [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/) and [Yee Whye Teh](http://www.stats.ox.ac.uk/~teh/), and funded by [Google DeepMind](https://deepmind.com/).
 
-My research focus includes uncertainty quantification, fairness in ML, explainability and causal inference. I am also interested in applying ideas from these disciplines for alignment within large language models.
+My research interests include uncertainty quantification, decision-making, causal inference, fairness and explainability. I am also interested in applying ideas from these disciplines for alignment within large language models.
 
 I recently completed a research internship in the Responsible AI team at [ByteDance](https://www.bytedance.com/) in London. Here, I was exploring fairness and interpretability within the context of large language models.
 Prior to this, I also interned at [Amazon](https://aws.amazon.com/) in Tubingen, Germany in 2022, where I worked on [robust explanability methods](https://arxiv.org/abs/2301.04041).
