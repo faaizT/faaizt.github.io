@@ -5,6 +5,23 @@ layout: page
 
 An up to date list of publications can be found on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=oDL6ahoAAAAJ) profile.
 
+##### 2024
+<br />
+<div style="display:flex;">
+
+  <div style="flex:1.5; padding-right:5%">
+    <img src="{{ site.url }}/img/paper-icons/DatasetFairness.png"
+    style="width:600px; border-radius:10%">
+  </div>
+
+  <div style="flex:2.5;">
+    <b style="font-size: 80%; font-family:sans-serif"><a href="https://arxiv.org/abs/2402.17106">Dataset Fairness: Achievable Fairness on Your Data With Utility Guarantees</a></b><br>
+    <i style="font-size: 80%; font-family:sans-serif"> <b>M.F. Taufiq</b>, J.F. Ton, Y. Liu</i><br>
+    <i style="font-size: 60%; font-family:sans-serif">Preprint</i><br>
+  </div>
+</div>
+<br />
+
 ##### 2023
 <br />
 <div style="display:flex;">
