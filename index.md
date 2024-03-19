@@ -35,7 +35,7 @@ I am also part of the organising committee for [ELLIS RobustML workshops](https:
 <!-- Prior to this, I also interned at [Amazon](https://aws.amazon.com/) in Tubingen, Germany in 2022, where I worked on [robust explanability methods](https://arxiv.org/abs/2301.04041). -->
 <!-- Some of my past research includes applications of [conformal prediction in contextual bandits](https://arxiv.org/abs/2206.04405), and using [causal inference to assess digital twin models](https://arxiv.org/abs/2301.07210). -->
 
-Before beginning my PhD, I spent 2 years as an associate developer at [Morgan Stanley](https://www.morganstanley.com/) in London. I got my Bachelor’s and Master’s degrees in Mathematics from the [University of Cambridge](https://www.cam.ac.uk/).
+<!-- Before beginning my PhD, I spent 2 years as an associate developer at [Morgan Stanley](https://www.morganstanley.com/) in London. I got my Bachelor’s and Master’s degrees in Mathematics from the [University of Cambridge](https://www.cam.ac.uk/). -->
 
 ### Contact
 
