@@ -27,8 +27,8 @@ An up to date list of publications can be found on my [Google Scholar](https://s
 <div style="display:flex;">
 
   <div style="flex:1.5; padding-right:5%">
-    <img src="{{ site.url }}/img/paper-icons/mr_icon2.png"
-    style="width:600px; border-radius:30%">
+    <img src="{{ site.url }}/img/paper-icons/mr_icon1.png"
+    style="width:600px; border-radius:10%">
   </div>
 
   <div style="flex:2.5;">
