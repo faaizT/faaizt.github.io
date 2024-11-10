@@ -18,6 +18,7 @@ An up to date list of publications can be found on my [Google Scholar](https://s
     <b style="font-size: 80%; font-family:sans-serif"><a href="https://arxiv.org/abs/2402.17106">Achievable Fairness on Your Data With Utility Guarantees</a></b><br>
     <i style="font-size: 80%; font-family:sans-serif"> <b>M.F. Taufiq</b>, J.F. Ton, Y. Liu</i><br>
     <i style="font-size: 60%; font-family:sans-serif"><b>NeurIPS 2024</b></i><br>
+    <a style="font-size: 60%; font-family:sans-serif" href="https://docs.google.com/presentation/d/1COO98JFXsdd_1epy8DVUeP74BnqKjUGitxqy2TyhS8M/edit?usp=sharing">Slides</a>
   </div>
 </div>
 <br />
