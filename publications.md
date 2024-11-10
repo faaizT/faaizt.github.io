@@ -18,7 +18,7 @@ An up to date list of publications can be found on my [Google Scholar](https://s
     <b style="font-size: 80%; font-family:sans-serif"><a href="https://arxiv.org/abs/2402.17106">Achievable Fairness on Your Data With Utility Guarantees</a></b><br>
     <i style="font-size: 80%; font-family:sans-serif"> <b>M.F. Taufiq</b>, J.F. Ton, Y. Liu</i><br>
     <i style="font-size: 60%; font-family:sans-serif"><b>NeurIPS 2024</b></i><br>
-    <a style="font-size: 60%; font-family:sans-serif" href="https://docs.google.com/presentation/d/1COO98JFXsdd_1epy8DVUeP74BnqKjUGitxqy2TyhS8M/edit?usp=sharing">Slides</a>
+    <a style="font-size: 60%; font-family:sans-serif" href="https://docs.google.com/presentation/d/e/2PACX-1vQSThPl01hXzqCUMWvFfwvP75bKJJ2cgjMr689xEfPiqWynYVwSF4on5nLfY3e-ENOx6X6ga3WEBPcK/pub?start=false&loop=false&delayms=3000">Slides</a>
   </div>
 </div>
 <br />
@@ -36,7 +36,7 @@ An up to date list of publications can be found on my [Google Scholar](https://s
     <b style="font-size: 80%; font-family:sans-serif"><a href="https://arxiv.org/abs/2312.01457">Marginal Density Ratio for Off-Policy Evaluation in Contextual Bandits</a></b><br>
     <i style="font-size: 80%; font-family:sans-serif"> <b>M.F. Taufiq</b>, A. Doucet, R. Cornish, J.F. Ton</i><br>
     <i style="font-size: 60%; font-family:sans-serif"><b>NeurIPS 2023</b></i><br>
-    <a style="font-size: 60%; font-family:sans-serif" href="https://docs.google.com/presentation/d/1q_jxKYNMtVxV7Qw5HFz-9sAEE_Jsd-iiH5uwjxSagY0/edit?usp=sharing">Slides</a>
+    <a style="font-size: 60%; font-family:sans-serif" href="https://docs.google.com/presentation/d/e/2PACX-1vR_7I2IABhVnaxB-Dj6c9lMxILTq2VrDBOhS53B7t7DTDXqzADcsJ_-fIZ-dvT1eDy-me4WDSWpngy2/pub?start=false&loop=false&delayms=3000">Slides</a>
   </div>
 </div>
 <br />
