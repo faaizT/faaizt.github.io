@@ -10,6 +10,21 @@ An up to date list of publications can be found on my [Google Scholar](https://s
 <div style="display:flex;">
 
   <div style="flex:1.5; padding-right:5%">
+    <img src="{{ site.url }}/img/paper-icons/cot_infotheory.png"
+    style="width:600px; border-radius:10%">
+  </div>
+
+  <div style="flex:2.5;">
+    <b style="font-size: 80%; font-family:sans-serif"><a href="https://arxiv.org/abs/2411.11984">Understanding Chain-of-Thought in LLMs through Information Theory</a></b><br>
+    <i style="font-size: 80%; font-family:sans-serif">J.F. Ton*, <b>M.F. Taufiq*</b>, Y. Liu</i><br>
+    <i style="font-size: 60%; font-family:sans-serif">Preprint</i><br>
+  </div>
+</div>
+<br />
+<br />
+<div style="display:flex;">
+
+  <div style="flex:1.5; padding-right:5%">
     <img src="{{ site.url }}/img/paper-icons/datasetfairness_icon.webp"
     style="width:600px; border-radius:10%">
   </div>
