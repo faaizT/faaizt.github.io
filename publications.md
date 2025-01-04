@@ -27,7 +27,7 @@ An up to date list of publications can be found on my [Google Scholar](https://s
     style="width:600px; border-radius:10%">
   </div>
   <div style="flex:2.5;">
-    <b style="font-size: 80%; font-family:sans-serif"><a href="{{ site.url }}/thesis/thesis_MuhammadFaaizTaufiq.pdf">Uncertainty Quantification and Causal Considerations for Off-Policy Decision Making</a></b><br>
+    <b style="font-size: 80%; font-family:sans-serif"><a href="{{ site.url }}/thesis/thesis_MuhammadFaaiz.pdf">Uncertainty Quantification and Causal Considerations for Off-Policy Decision Making</a></b><br>
     <i style="font-size: 80%; font-family:sans-serif"> <b>M.F. Taufiq</b></i><br>
     <i style="font-size: 60%; font-family:sans-serif">PhD thesis</i><br>
     <a style="font-size: 60%; font-family:sans-serif" href="https://docs.google.com/presentation/d/e/2PACX-1vRHxSfpGIzSxy9AK3QS0U_TMc1RWzYJJqxotbr7dR--7rnQs-qTT0Ce5MPdcVwmXIE6I7y3wNAZljKw/pub?start=false&loop=false&delayms=3000">Slides</a>
