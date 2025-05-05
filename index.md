@@ -25,13 +25,16 @@
 </div>
 <br style="line-height:10%;">
 
-I am currently a 3rd year PhD student in statistical machine learning at [Oxford](http://www.ox.ac.uk/), under the supervision of [Rob Cornish](https://jrmcornish.github.io/), [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/) and [Yee Whye Teh](http://www.stats.ox.ac.uk/~teh/), and funded by [Google DeepMind](https://deepmind.com/).
+I am a Research Scientist at [ByteDance](https://www.bytedance.com/), London, where I am working on LLM reasoning and multi-agent collaboration. My broader research interests span the robustness and safety of AI systems, with a focus on uncertainty quantification, causal inference, algorithmic fairness, and interpretability.
 
-My research interests include uncertainty quantification, decision-making, causal inference, fairness and explainability. I am also interested in applying ideas from these disciplines for alignment within Large Language Models (LLMs).
+Prior to this, I completed my PhD in machine learning at Oxford, under the supervision of [Rob Cornish](https://jrmcornish.github.io/), [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/) and [Yee Whye Teh](http://www.stats.ox.ac.uk/~teh/), and funded by Google DeepMind. You can find more details in my [PhD thesis](https://arxiv.org/abs/2502.06011).
 
-I recently completed a research internship in the Responsible AI team at [ByteDance](https://www.bytedance.com/), London. Here, I was exploring the reliability and trustworthiness of LLMs.
+<!-- My research interests include uncertainty quantification, decision-making, causal inference, fairness and explainability. I am also interested in applying ideas from these disciplines for alignment within Large Language Models (LLMs). -->
 
-I am also part of the organising committee for [ELLIS RobustML workshops](https://sites.google.com/view/robustml2024). This year we are organising two robustness-related workshops with the aim of bringing together theoretical robustness research with real-world applications.
+<!-- I recently completed a research internship in the Responsible AI team at [ByteDance](https://www.bytedance.com/), London. Here, I was exploring the reliability and trustworthiness of LLMs. -->
+
+I am also a part of the organising committee for [ELLIS RobustML workshops](https://sites.google.com/view/robustml2024). 
+In 2024, we organised two robustness-related workshops with the aim of bringing together theoretical robustness research with real-world applications. For updates regarding upcoming workshops, join our [mailing group](https://groups.google.com/g/ellis-robustml-community).
 <!-- Prior to this, I also interned at [Amazon](https://aws.amazon.com/) in Tubingen, Germany in 2022, where I worked on [robust explanability methods](https://arxiv.org/abs/2301.04041). -->
 <!-- Some of my past research includes applications of [conformal prediction in contextual bandits](https://arxiv.org/abs/2206.04405), and using [causal inference to assess digital twin models](https://arxiv.org/abs/2301.07210). -->
 
@@ -39,4 +42,4 @@ I am also part of the organising committee for [ELLIS RobustML workshops](https:
 
 ### Contact
 
-Feel free to reach out to me at _muhammad.taufiq (at) stats.ox.ac.uk_
+Feel free to reach out to me at _faaiz.taufiq (at) bytedance.com_
