@@ -16,7 +16,7 @@ An up to date list of publications can be found on my [Google Scholar](https://s
   <div style="flex:2.5;">
     <b style="font-size: 80%; font-family:sans-serif"><a href="https://arxiv.org/abs/2411.11984">Understanding Chain-of-Thought in LLMs through Information Theory</a></b><br>
     <i style="font-size: 80%; font-family:sans-serif">J.F. Ton*, <b>M.F. Taufiq*</b>, Y. Liu</i><br>
-    <i style="font-size: 60%; font-family:sans-serif">Preprint</i><br>
+    <i style="font-size: 60%; font-family:sans-serif"><b>ICML 2025</b></i><br>
   </div>
 </div>
 <br />
