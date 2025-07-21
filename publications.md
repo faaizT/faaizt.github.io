@@ -94,7 +94,7 @@ An up to date list of publications can be found on my [Google Scholar](https://s
   </div>
 
   <div style="flex:2.5;">
-    <b style="font-size: 80%; font-family:sans-serif"><a href="http://trustllm.ai/">Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment</a></b><br>
+    <b style="font-size: 80%; font-family:sans-serif"><a href="http://trustllm.ai/">Trustworthy LLMs: A Survey and Guideline for Evaluating Large Language Models' Alignment</a></b><br>
     <i style="font-size: 80%; font-family:sans-serif"> Y. Liu*, Y. Yao*, J.F. Ton, X. Zhang, R. Guo, H. Cheng, Y. Klochkov, <b>M.F. Taufiq</b>, H. Li</i><br>
     <i style="font-size: 60%; font-family:sans-serif"><b>NeurIPS 2023 Workshop</b> on Socially Responsible Language Modelling Research (SoLaR).</i><br>
   </div>
