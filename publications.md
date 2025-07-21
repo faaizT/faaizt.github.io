@@ -5,6 +5,23 @@ layout: page
 
 An up to date list of publications can be found on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=oDL6ahoAAAAJ) profile.
 
+##### 2025
+
+<br />
+<div style="display:flex;">
+  <div style="flex:1.5; padding-right:5%">
+    <img src="{{ site.url }}/img/paper-icons/leader_image.png"
+    style="width:600px; border-radius:10%">
+  </div>
+  <div style="flex:2.5;">
+    <b style="font-size: 80%; font-family:sans-serif"><a href="https://arxiv.org/abs/2507.08960">How to Train a Leader: Hierarchical Reasoning in Multi-Agent LLMs</a></b><br>
+    <i style="font-size: 80%; font-family:sans-serif">A. Estornell*, J.F. Ton*, <b>M.F. Taufiq*</b>, H. Li</i><br>
+    <i style="font-size: 60%; font-family:sans-serif">Preprint</i><br>
+  </div>
+</div>
+<br />
+
+
 ##### 2024
 
 <br />

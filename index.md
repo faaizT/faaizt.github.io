@@ -25,7 +25,7 @@
 </div>
 <br style="line-height:10%;">
 
-I am a Research Scientist at [ByteDance](https://www.bytedance.com/), London, where I am working on LLM reasoning and multi-agent collaboration. My broader research interests span the robustness and safety of AI systems, with a focus on uncertainty quantification, causal inference, algorithmic fairness, and interpretability.
+I am a Research Scientist at [ByteDance Seed](https://seed.bytedance.com/), London, where I am working on LLM reasoning and multi-agent collaboration. My broader research interests span the robustness and safety of AI systems, with a focus on uncertainty quantification, causal inference, algorithmic fairness, and interpretability.
 
 Prior to this, I completed my PhD in machine learning at Oxford, under the supervision of [Rob Cornish](https://jrmcornish.github.io/), [Arnaud Doucet](https://www.stats.ox.ac.uk/~doucet/) and [Yee Whye Teh](http://www.stats.ox.ac.uk/~teh/), and funded by Google DeepMind. You can find more details in my [PhD thesis](https://arxiv.org/abs/2502.06011).
 
